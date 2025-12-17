@@ -23,6 +23,7 @@ a histogram is used to examine the distribution of functional activation values.
 - nibabel
 - nilearn
 - matplotlib
+- os
 
 ## Data Source
 Neurosynth Meta-Analysis (Chronic Pain):  
